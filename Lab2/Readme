@@ -1,0 +1,4 @@
+Only need to enter "make" to compile files.
+Also, you can enter "make clean" to clean output and execute files.
+
+And the execute file usage is same as spec, is "./Lab2 <fileName>""
